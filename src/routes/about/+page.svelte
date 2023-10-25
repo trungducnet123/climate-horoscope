@@ -7,7 +7,7 @@
 
 <div class="grid items-center justify-center gap-y-5 relative z-10 my-20 px-2">
   <div class="max-w-2xl border p-10 border-gray-900 bg-white flex flex-col gap-y-6">
-    <h1 class="font-serif text-2xl text-gray-700"><a href="/">Climate—Fortunes</a></h1>
+    <h1 class="font-serif text-2xl text-gray-700"><a href="/">Kabastro—Horoscope</a></h1>
     <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Since the beginning of mankind, humans have been looking to the night sky, for reasons as numerous as the stars themselves. Comfort, wonder, a sense of belonging, a sense of futility, guidance, be it in the navigational or the metaphorical sense, the night sky has it all. The systems for translating the movement of the stars into advice, into recommendations, into glimpses of the future, are just as abundant. We yearn to read the stars, especially in times of uncertainty.</p>
 
     <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Long before we were here, the stars have sent their light and radiation, their gravitational waves, into the ever-growing expanse that is the observable universe. And long after our strange species of evolved apes has vanished, they will continue to do so. Regardless of whether we are there to witness them. We, that for a brief moment in cosmic history, have taken such a keen interest in them.</p>

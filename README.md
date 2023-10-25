@@ -1,4 +1,4 @@
-# Climate—Fortunes
+# Kabastro—Horoscope
 
 [Live version of the climate horoscope](https://climate-horoscope.netlify.app/)
 

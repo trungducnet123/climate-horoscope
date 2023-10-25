@@ -12,7 +12,7 @@
 
 <div class="grid items-center justify-center gap-y-5 relative z-10 my-5 md:my-20 px-2">
   <header class="max-w-2xl border p-5 md:p-10 border-gray-900 bg-white flex flex-col gap-y-6">
-    <h1 class="font-serif text-2xl text-gray-700">Climate—Fortunes</h1>
+    <h1 class="font-serif text-2xl text-gray-700">Kabastro—Horoscope</h1>
     <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Welcome to your Climate Horoscope, where we navigate the turbulent skies of a world affected by climate change. Let us delve into the atmospheric energies that will shape your day and shed light on the evolving weather patterns around us in times of the climate crisis.</p>
   </header>
 
@@ -104,8 +104,30 @@
   </div>
 
   <div class="flex gap-2 max-w-2xl border p-5 md:p-10 border-gray-900 gap-y-5 flex-col mt-10 items-center bg-white">
-    <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Remember, dear friends, that we are interconnected with the planet we call home. By nurturing our environment, embracing sustainable practices, advocating for change, both on a personal and political level, we can collectively steer our world towards a brighter and greener future. <a href="/about" class="underline decoration-gray-400 hover:decoration-gray-900 transition-colors">Find out more about this project here.</a></p>
-    <p class="text-sm text-gray-700 max-w-prose leading-relaxed">Developed during the Environmental Data, Media and the Humanities-Hackathon, 31 May - 2 June 2023, Potsdam, organised by the <a href="https://www.uni-potsdam.de/de/digital-humanities/" class="underline decoration-gray-400 hover:decoration-gray-900 transition-colors">network of digital humanities of Potsdam University</a> in collaboration with Lukas Diestel, Maximilian Hepach, Giacomo Marinsalta, Sybille Neumeyer, Jonas Parnow, Birgit Schneider, May Ee Wong, funded by the <a href="https://www.humboldt-foundation.de/en/" class="underline decoration-gray-400 hover:decoration-gray-900 transition-colors">Alexander von Humboldt Foundation</a>. The source code is on <a href="https://github.com/jnsprnw/climate-horoscope" class="underline decoration-gray-400 hover:decoration-gray-900 transition-colors">Github</a>.</p>
+   <p>Kabala is a project born with the mission to help individuals achieve balance and maintain happiness in life. The Kabala range of services includes:</p>
+		<ul>
+		<li>
+		<p><strong>Commerce</strong>: Energy stones, Feng Shui items, herbal teas, natural incense...</p>
+		</li>
+		<li>
+		<p><strong>Health</strong>: Combining spinal impact with martial arts, healing bells, meditation, yoga...</p>
+		</li>
+		<li>
+		<p><strong>Training</strong>: Sharing and guidance on Spirituality.</p>
+		</li>
+		<li>
+		<p><strong>Kabala Reports:</strong></p>
+		<ul>
+		<li>Kabala EGO: Introduction: Kabala EGO is an extraordinary reading experience where you are the main character, and everything revolves around you. It's the starting point for your spiritual journey. Purpose: Self-understanding &rarr; Genuine happiness &rarr; The meaning of life Method: Astrology + Numerology + Spirituality</li>
+		<li>Kabala Numerology: Personality and life reports using Numerology.</li>
+		<li>Kabala Astrology: Personality analysis and life interpretation using Astrology. Other projects.</li>
+		<li>Kabala Matrix</li>
+		<li>...</li>
+		</ul>
+		</li>
+		</ul>
+		<hr>
+		<p>The essence of life is the balance of energy flows. Let&nbsp;Kabala.vn help you to some extent in maintaining the state of happiness in life. Contact: <a href="mailto:lienhe@kabala.vn" target="_new">lienhe@kabala.vn</a>.</p>
   </div>
 </div>
 

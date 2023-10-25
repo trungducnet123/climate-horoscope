@@ -3,7 +3,7 @@
   import Chart from '$lib/Chart/Chart.svelte';
 
   let url = 'https://climate-horoscope.netlify.app/';
-  let title = 'Climate—Fortunes';
+  let title = 'Kabastro—Horoscope';
   let description = 'Welcome to your Climate Horoscope, where we navigate the turbulent skies of a world affected by climate change. Let us delve into the atmospheric energies that will shape your day and shed light on the evolving weather patterns around us in times of the climate crisis.';
 </script>
 
